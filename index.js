@@ -89,18 +89,18 @@ const tmp_hit = JSON.parse(fs.readFileSync('./src/hit.json'))
 const tmphit = JSON.parse(fs.readFileSync('./src/today.json'))
 //******************** 》Setting《 ********************\\
 menusimpel = false
-owner = "6281804680327@s.whatsapp.net"
-ownerN = "6281804680327"
+owner = "6287832147584@s.whatsapp.net"
+ownerN = "6287832147584"
 setgrup = "6281226770537-1606097314@g.us"
 wa = '0@s.whatsapp.net'
 blocked = []
 public = true
 picdetec = false
 shp = '⬡'
-nama = 'Senku BOT'
-fake = '@Rapaa021_'
+nama = 'PangeranBotZ'
+fake = '@Pangeran021_'
 antidel = false
-antical = false
+antical = true
 aread = false
 ngetik = false
 vn = true
@@ -151,9 +151,9 @@ let {
 //******************** 》Vcard《 ********************\\
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Senku シ︎\n'
-            + 'ORG:Owner Senku;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6281804680327:+62 831-1800-241\n'
+            + 'FN:Pangeran シ︎\n'
+            + 'ORG:Owner Pangeran;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6287832147584:+62 878-3214-7584\n'
             + 'END:VCARD'
             
 const sleep = async (ms) => {
